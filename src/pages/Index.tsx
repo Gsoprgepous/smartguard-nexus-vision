@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from 'react';
-import { Tab, Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Toaster } from "@/components/ui/toaster";
 import { Button } from "@/components/ui/button";
 import { ChartBar, Database, FileBarChart, Grid, Layout, Shield } from "lucide-react";

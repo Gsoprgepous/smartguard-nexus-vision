@@ -1,5 +1,6 @@
 
-import { Link, Database, Shield, Server, Cpu, Network, Terminal, LayersFill, ChartBar, Code } from "lucide-react";
+import { Link, Database, Shield, Server, Cpu, Network, Terminal, Layers, ChartBar, Code } from "lucide-react";
+import { Search, Users } from "lucide-react";
 import TechnologyCard from "./TechnologyCard";
 
 const TechnologiesGrid = () => {
